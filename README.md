@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bediisad
+- 👋 Hi, I’m Bedisa Das Bardiya
 - 👀 I’m interested in Computer Vision / Image Prcessing / Machine Learning 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Image Processing and Computer Vision projects on automotive domain
